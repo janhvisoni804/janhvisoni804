@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 I am Janhvi Soni ,a 2nd year B.Tech student building at the intersection of AI Engineering & Full Stack Development.<br><br>🔧Currently:<br>     DSA in Java | Python | Web Development<br><br>🤖 AI Projects:<br>📌Conscious Learning AI Study Assistant — Agentic AI capstone (Google Kaggle)<br>📌Healthcare Anomaly Detection — Data-driven anomaly detection for early insights<br><br>⚡ Latest: <br>      Completed ServiceNow Virtual Internship (AICTE-certified) with hands-on exposure to Agentic AI, enterprise automation & ATF<br><br>📝Certificates:<br>     ServiceNow Virtual Internship — Certificate of Completion<br>     Data Analytics Job Simulation<br>     5-Day Al Agents Intensive Course with Google(via Kaggle)<br>     Digital Application Fundamentals(STEM),Issued by FutureSkills Prime (A MeitY - NASSCOM Digital Skilling Initiative)<br><br>I build to learn. Every project is a step toward solving real-world problems at scale.<br>Open to opportunities in AI/ML Engineering & Full Stack Development.
 
@@ -20,8 +21,4 @@ I am Janhvi Soni ,a 2nd year B.Tech student building at the intersection of AI E
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=janhvisoni804&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
 [![](https://komarev.com/ghpvc/?username=janhvisoni804&icon=6&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
