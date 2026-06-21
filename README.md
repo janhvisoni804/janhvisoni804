@@ -21,10 +21,6 @@ I am Janhvi Soni ,a 2nd year B.Tech student building at the intersection of AI E
 # 📊 GitHub Activity Graph
 [![Janhvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=janhvisoni804&theme=radical&bg_color=0d1117&hide_border=true)](https://github.com/janhvisoni804)
 
-# 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=janhvisoni804&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 # ✍️ Random Dev Quote
 <p align="center">
