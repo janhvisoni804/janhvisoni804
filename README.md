@@ -14,16 +14,17 @@ I am Janhvi Soni ,a 2nd year B.Tech student building at the intersection of AI E
 ![](https://streak-stats.demolab.com/?user=janhvisoni804&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=janhvisoni804&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🐍 My Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/janhvisoni804/janhvisoni804/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 # 📊 GitHub Activity Graph
-![](https://github-readme-activity-graph.vercel.app/?username=janhvisoni804&theme=radical&bg_color=0d1117&hide_border=true)
+[![Janhvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=janhvisoni804&theme=radical&bg_color=0d1117&hide_border=true)](https://github.com/janhvisoni804)
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=janhvisoni804&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=janhvisoni804&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 # ✍️ Random Dev Quote
 <p align="center">
