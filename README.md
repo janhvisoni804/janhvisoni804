@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Janhvi Soni ,a 2nd year B.Tech student building at the intersection of AI Engineering & Full Stack Development.<br><br>🔧Currently:<br>     DSA in Java | Python | Web Development<br><br>🤖 AI Projects:<br>📌Conscious Learning AI Study Assistant — Agentic AI capstone (Google Kaggle)<br>📌Healthcare Anomaly Detection — Data-driven anomaly detection for early insights<br><br>⚡ Latest: <br>     Open Source Contributor at Nexus Spring of Code(2026) and GirlScript Summer of Code(2026)<br><br>📝Certificates:<br>     ServiceNow Virtual Internship — Certificate of Completion<br>     Data Analytics Job Simulation<br>     5-Day Al Agents Intensive Course with Google(via Kaggle)<br>     Digital Application Fundamentals(STEM),Issued by FutureSkills Prime (A MeitY - NASSCOM Digital Skilling Initiative)<br><br>I build to learn. Every project is a step toward solving real-world problems at scale.<br>Open to opportunities in AI/ML Engineering & Full Stack Development.
+I am Janhvi Soni ,a 3rd year B.Tech student building at the intersection of AI Engineering & Full Stack Development.<br><br>🔧Currently:<br>     DSA in Java | Python | Web Development<br><br>🤖 AI Projects:<br>📌Conscious Learning AI Study Assistant — Agentic AI capstone (Google Kaggle)<br>📌Healthcare Anomaly Detection — Data-driven anomaly detection for early insights<br><br>⚡ Latest: <br>     Open Source Contributor at Nexus Spring of Code(2026) and GirlScript Summer of Code(2026)<br><br>📝Certificates:<br>     ServiceNow Virtual Internship — Certificate of Completion<br>     Data Analytics Job Simulation<br>     5-Day Al Agents Intensive Course with Google(via Kaggle)<br>     Digital Application Fundamentals(STEM),Issued by FutureSkills Prime (A MeitY - NASSCOM Digital Skilling Initiative)<br><br>I build to learn. Every project is a step toward solving real-world problems at scale.<br>Open to opportunities in AI/ML Engineering & Full Stack Development.
 
 
 # 🌐 Connect With Me:
@@ -17,10 +17,6 @@ I am Janhvi Soni ,a 2nd year B.Tech student building at the intersection of AI E
 <p align="center">
   <img src="https://raw.githubusercontent.com/janhvisoni804/janhvisoni804/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
-# 📊 GitHub Activity Graph
-[![Janhvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=janhvisoni804&theme=radical&bg_color=0d1117&hide_border=true)](https://github.com/janhvisoni804)
-
 
 # ✍️ Random Dev Quote
 <p align="center">
